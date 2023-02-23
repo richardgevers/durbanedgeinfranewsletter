@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Durban Edge Newsletter - Infrastructure and Revenue](README.md)
+* [Contents](contents.md)
+* [Abstract](abstract.md)
+* [Introduction](introduction.md)
+* [Capital Budget Performance of SA’s Major Metros](capital-budget-performance-of-sas-major-metros.md)
+* [Should the EThekwini Municipality Consider Outside Funding Sources?](should-the-ethekwini-municipality-consider-outside-funding-sources.md)
+* [Interviews with Capital Project Managers](interviews-with-capital-project-managers.md)
+* [Estimated Economic Impact of the City’s Capital Expenditure](estimated-economic-impact-of-the-citys-capital-expenditure.md)
+* [The Revenue Outlook of SA’s Metros](the-revenue-outlook-of-sas-metros.md)
+* [EThekwini Municipality Revenue Collection Performance](ethekwini-municipality-revenue-collection-performance.md)
+* [Summarised Results of the Vector Auto-Regression Model Analysis](summarised-results-of-the-vector-auto-regression-model-analysis.md)
+* [Conclusion](conclusion.md)
+* [Recommendations](recommendations.md)

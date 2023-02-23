@@ -1,0 +1,15 @@
+# Conclusion
+
+* A benchmark for cities in South Africa, is to spend about 20% of their total budget on capital. While eThekwini was in line with this trend in 2015, with 18% of its budget dedicated to capital expenditure, this figure has fallen to 9% in 2022/23.
+* The steep decline in capital budget spending comes against a backdrop of man-made and natural disasters which required increased capital investment into infrastructure.
+* The implication of the decline, coupled with the flood damage, is that the City is not investing in its assets which are responsible for generating its revenue. This will have severely negative consequences for the City’s short, medium, and long-term revenue trajectory.
+* The study has found that the capital budget for eThekwini Municipality comes in third place, it is behind by R3.7 billion in other major cities.
+* It’s crucial to emphasise that, despite their financial difficulties, cities are seen to be spending less of the grant fund provided to them to carry out certain infrastructure projects.
+* The revenues collected from energy in 2021/22 increased by 2.9% (electricity rely more on tariff increases) and water consumption fell by 12.8% due to infrastructure damages during flooding.
+* The lack of project implementation and other primary factors identified by project managers are the key causes of the City’s capital expenditures’ downward sloping trend, causing a shortfall of R8,5 billion between 2015/16 to 2021/22.
+* The VAR model proves that there is a positive relationship between capital spending, operating expenditure, and revenue collection significantly supports the notion that revenue collection is a necessary component of the City’s budgeting method.
+* EThekwini’s debt levels have fallen over the years and remain well below the benchmark of 45% of its own revenue – hence the City has an under-geared balance sheet.
+* Given the infrastructure crisis resulting from the flood and expenditure in infrastructure over the last six years, combined with the low and declining levels of borrowing that the City currently has, it is important that the City increases its current levels of debt to address urgent developmental priorities.
+* As disaster-related funding slowly comes through, these can assist in further addressing the infrastructure investment shortfall resulting from years of under investment or used to offset the debt.
+* The danger of perpetuating the current approach which has resulted in disastrous levels of catchment pollution, an extremely delicate electricity network, and vulnerable water and stormwater infrastructure, is that the City will experience a sharp decline in revenue brought on by disinvestment, project cancellations, and declining local property and capital.
+* It is estimated that to address the immediate infrastructure shortcoming (in waste electricity, stormwater, and water) and halt the unfolding of further natural and economic disasters, the City would need to borrow approximately R2 billion of infrastructure funding, which is well within its capability.
