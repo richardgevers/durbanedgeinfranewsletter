@@ -1,7 +1,7 @@
 # Recommendations
 
 * To accelerate the completion of new infrastructure projects and maintain current infrastructure, it is necessary to package infrastructure funding requirements for all unfunded projects in an effort to secure external funding. This is a crucial factor in increasing the City’s revenue collection.
-* The Sakha iTheku Economic Strategy, which is a part of eThekwini Municipality’s Economic Plan, recommends both the establishment of a company for economic development and the creation of public-private partnership models for large-scale infrastructure projects. This may serve as the solution to several problems that project managers have identified (See Section 4 for full discussion)
+* The [Sakha iTheku Economic Strategy](https://www.durban.gov.za/storage/PDF%20Documents/Shape%20Durban/Sakha%20iTheku\_Shape%20Durban.pdf), which is a part of eThekwini Municipality’s Economic Plan, recommends both the establishment of a company for economic development and the creation of public-private partnership models for large-scale infrastructure projects. This may serve as the solution to several problems that project managers have identified (See Section 4 for full discussion)
 
 > **“Make better informed decisions with cutting-edge economic insight”**
 
